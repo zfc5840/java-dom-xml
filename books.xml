@@ -6,7 +6,7 @@
     <date>20041002</date>
     <price>34</price>
   </book>
-  <book id="2">
+  <book id="2" version="1.0">
      <name>海贼王</name>
      <address>日本</address>
        <price>28</price>
